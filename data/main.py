@@ -7,4 +7,4 @@ data = {
     "price": "15.00",
 }
 
-published(method="updated", body=data)
+published(method="created", body=data)
