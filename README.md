@@ -46,7 +46,7 @@ python core.py
 ![image](https://user-images.githubusercontent.com/88355373/210005438-ffa7fd52-a87b-42fb-909f-63dc1609f1dd.png)
 ![image](https://user-images.githubusercontent.com/88355373/210005520-e8fe48ef-9690-4e40-9510-3635c5a56e68.png)
 
-# HTTP UPDATE
+# HTTP PUT
 ![image](https://user-images.githubusercontent.com/88355373/210005580-c1b56bc5-7373-4500-a7e8-bc63c1f12526.png)
 ![image](https://user-images.githubusercontent.com/88355373/210005595-5c062431-05ab-41d5-9b56-3aa908357833.png)
 
